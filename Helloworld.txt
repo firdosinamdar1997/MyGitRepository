@@ -1,9 +1,13 @@
 class Helloworld{
 
 	void mymethod(){
+
 		system.out.println(" hello Hello World.......Welcome to GIT");
+
+		system.out.println(" hey Hello World.......Welcome to GIT");
 	}
 	public static void main(String args[]){
-	
+	 Helloworld.mymethod();
+	systemout.println("Hey guys....");
 	}
 }
