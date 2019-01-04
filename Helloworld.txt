@@ -1,5 +1,5 @@
 class Helloworld{
-main(){
-sysout("Hello World");
+public st1tic void main(String args[]){
+syste.out.println("Hello World.......");
 }
 }
